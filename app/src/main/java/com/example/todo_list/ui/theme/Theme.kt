@@ -3,7 +3,6 @@ package com.example.todoapp.ui.theme
 import androidx.compose.ui.graphics.Color
 
 // Cores para o tema claro
-val LightPrimary = Color(0xFF6200EE)
 val LightSecondary = Color(0xFF03DAC6)
 val LightTertiary = Color(0xFFBB86FC)
 val LightBackground = Color(0xFFFFFFFF)
